@@ -19,6 +19,7 @@ The class is available for purchase on the online educational platform udemy:
 
 ## Versions
 v1.0.0 The original assignment
+
 v1.1.0 Game now saves high score in a text file. At death game restarts with 0 points.
 
 ---
