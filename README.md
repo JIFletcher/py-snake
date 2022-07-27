@@ -5,6 +5,7 @@ Simple version of the game snake, written in python.
 
 ## 100 Days of python
 This game was written as an assignment on day 21 (of 100) in an excellent programming class led by brilliant educator Dr. Angela Yu.
+The game was improved upon as an assignment on day 24 of the same programming course.
 The class is available for purchase on the online educational platform udemy:
 
 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
@@ -16,8 +17,9 @@ The class is available for purchase on the online educational platform udemy:
 
 ---
 
-## Version(s)
+## Versions
 v1.0.0 The original assignment
+v1.1.0 Game now saves high score in a text file. At death game restarts with 0 points.
 
 ---
 
